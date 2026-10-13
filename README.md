@@ -8,6 +8,7 @@ A quick-reference guide for version control with Git and collaboration on GitHub
 - **Git**: A local, distributed version control system to track file changes.
 - **GitHub**: A cloud-based platform to host Git repositories and collaborate with others.
 
+
 ---
 
 ## Key Concepts
