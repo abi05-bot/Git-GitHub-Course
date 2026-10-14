@@ -55,3 +55,11 @@ git checkout -b <branch-name>       # Create and switch to a new branch
 git checkout main                   # Switch back to main
 git merge <branch-name>             # Merge branch changes into current branch
 ```
+
+### 6. Understanding the Git Workflow
+
+Git workflow consists of three important areas:
+
+Working Directory: Where you create or modify files.
+Staging Area: Where you prepare changes before committing.
+Repository: Where committed changes are stored
