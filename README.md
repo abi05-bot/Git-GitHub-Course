@@ -1,4 +1,4 @@
-# Git and GitHub Essentials
+# Git and GitHub 
 
 A quick-reference guide for version control with Git and collaboration on GitHub.
 
