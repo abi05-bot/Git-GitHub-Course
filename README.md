@@ -405,5 +405,4 @@ git status
 
 ---
 
-**Maintained as a quick reference for Git and GitHub commands, workflows, and collaboration practices.**
 
