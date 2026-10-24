@@ -16,7 +16,7 @@ A quick-reference guide for version control with Git and collaboration on GitHub
 - **Commit**: A snapshot/save point of your changes.
 - **Branch**: An isolated line of development (e.g., `main`, `feature-login`).
 - **Remote**: The GitHub repository URL hosted online.
-- **Pull Request (PR)**: A proposal to merge changes from one branch into another.
+- **Pull Request**: A proposal to merge changes from one branch into another.
 
 ---
 
