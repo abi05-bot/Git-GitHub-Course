@@ -399,7 +399,6 @@ git status
 ## Learning Resources
 
 - [Official Git Documentation](https://git-scm.com/doc)
-- [Git Reference](https://git-scm.com/docs)
 - [GitHub Docs](https://docs.github.com/)
 - [GitHub Skills](https://skills.github.com/)
 
