@@ -18,6 +18,7 @@ A quick-reference guide for version control with Git and collaboration on GitHub
 - **Remote**: The GitHub repository URL hosted online.
 - **Pull Request**: A proposal to merge changes from one branch into another.
 
+
 ---
 
 ## Essential Commands Cheat Sheet
