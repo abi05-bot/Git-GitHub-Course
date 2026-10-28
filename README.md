@@ -85,8 +85,7 @@ A practical quick-reference guide to Git commands, version control, branching, a
 - [Forks and Pull Requests](#8-forks-and-pull-requests)
 - [Connecting a Project to GitHub](#9-connecting-a-local-project-to-github)
 - [GitHub Best Practices](#10-github-best-practices)
-- [Advanced Git Concepts](#11-advanced-git-concepts)
-
+  
 ---
 
 ## Git vs GitHub
