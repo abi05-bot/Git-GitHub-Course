@@ -393,7 +393,6 @@ git status
 - Use Pull Requests and code reviews.
 - Keep commits focused on logical changes.
 - Add automated tests where appropriate.
-- Use GitHub Actions for CI/CD workflows.
 - Review changes before pushing or merging.
 
 ## Learning Resources
