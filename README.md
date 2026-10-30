@@ -321,10 +321,6 @@ build/
 __pycache__/
 *.pyc
 
-# IDE settings
-.vscode/
-```
-
 **Important:** `.gitignore` does not stop tracking files already committed. If a secret has been exposed, revoke or rotate the credential immediately.
 
 ## 9. Forks and Pull Requests
