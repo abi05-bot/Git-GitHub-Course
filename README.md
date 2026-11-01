@@ -12,7 +12,7 @@ A quick-reference guide for version control with Git and collaboration on GitHub
 ---
 
 ## Key Concepts
-- **Repository (Repo)**: Project folder tracked by Git.
+- **Repository**: Project folder tracked by Git.
 - **Commit**: A snapshot/save point of your changes.
 - **Branch**: An isolated line of development.
 - **Remote**: The GitHub repository URL hosted online.
