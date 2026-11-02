@@ -37,9 +37,9 @@ git clone <repo-url>                # Clone remote repo locally
 
 ### 3. Tracking Changes and Commits
 ```bash
-git status                          # Check changed files
-git add .                           # Stage all changes
-git commit -m "Your commit message" # Save snapshot
+git status                           # Check changed files
+git add .                            # Stage all changes
+git commit -m "Your commit message"  # Save snapshot
 ```
 
 ### 4. Working with GitHub (Remote)
