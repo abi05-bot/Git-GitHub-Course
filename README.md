@@ -396,6 +396,7 @@ git status
 - [Official Git Documentation](https://git-scm.com/doc)
 - [GitHub Docs](https://docs.github.com/)
 - [GitHub Skills](https://skills.github.com/)
+- [GitHub Skills](https://skills.github.com/)
 
 ---
 
