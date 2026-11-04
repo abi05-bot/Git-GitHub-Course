@@ -21,7 +21,7 @@ A quick-reference guide for version control with Git and collaboration on GitHub
 
 ---
 
-## Essential Commands Cheat Sheet
+## Essential Commands Cheat 
 
 ### 1. Setup and Configuration
 ```bash
