@@ -72,3 +72,4 @@ Then open GitHub and create a Pull Request.
 - Keep branches focused on one feature or bug.
 - Pull the latest changes before starting work.
 - Review changes before merging.
+- Review changes before merging.
