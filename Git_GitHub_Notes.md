@@ -10,7 +10,7 @@ Git is a **Distributed Version Control System (DVCS)** used to track changes in 
 - Restore previous versions.
 - Create and manage branches.
 - Work with multiple developers.
-- Maintain project history.
+
 
 ## 2. What is GitHub?
 
@@ -147,6 +147,7 @@ Merge into main
  v
 Updated main
 ```
+
 
 ## 7. What is a Commit?
 
