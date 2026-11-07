@@ -1,5 +1,5 @@
 
-# Advanced Git & GitHub Course
+# Advanced Git & GitHub 
 
 ## 1. Introduction
 
