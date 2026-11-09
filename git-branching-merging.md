@@ -64,8 +64,6 @@ git commit -m "Add profile feature"
 git push -u origin feature/profile
 ```
 
-Then open GitHub and create a Pull Request.
-
 ## Best Practices
 
 - Use descriptive branch names.
