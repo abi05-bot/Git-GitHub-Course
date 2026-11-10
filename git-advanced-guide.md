@@ -1,7 +1,7 @@
 Git & GitHub Advanced Guide
 1. Branching in Git
 
-A branch allows developers to work on new features without affecting the main branch.
+
 
 # Create a new branch
 git branch feature-login
