@@ -1,7 +1,4 @@
 Git & GitHub Advanced Guide
-1. Branching in Git
-
-
 
 # Create a new branch
 git branch feature-login
