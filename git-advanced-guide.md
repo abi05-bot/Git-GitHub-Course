@@ -1,5 +1,3 @@
-Git & GitHub Advanced Guide
-
 # Create a new branch
 git branch feature-login
 
