@@ -21,7 +21,6 @@ GitHub is an online platform used to host Git repositories and collaborate with 
 - Share projects with others.
 - Collaborate using Pull Requests.
 - Report bugs using Issues.
-- Showcase projects in a developer portfolio.
 
 ## 3. Git vs GitHub
 
