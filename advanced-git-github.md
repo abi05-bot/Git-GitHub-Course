@@ -92,7 +92,6 @@ git fetch upstream
 4. Push the branch to GitHub.
 5. Open a Pull Request.
 6. Review the changes and discuss feedback.
-7. Merge the Pull Request after approval.
 
 ## 5. Resolve Merge Conflicts
 
