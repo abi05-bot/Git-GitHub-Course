@@ -1,6 +1,8 @@
 # Create a new branch
 git branch feature-login
 
+git branch feature-login
+
 # Switch to the branch
 git switch feature-login
 
