@@ -5,8 +5,6 @@
 
 Git is a distributed version control system used to track changes in source code.
 
-GitHub is an online platform used to host Git repositories and collaborate with developers.
-
 ## 2. Important Git Commands
 
 ### Check Repository Status
