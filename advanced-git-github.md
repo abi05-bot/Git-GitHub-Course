@@ -9,6 +9,7 @@ Git is a distributed version control system used to track changes in source code
 ## 2. Important Git Commands
 
 ### Check Repository Status
+### Check Repository Status
 
 ```bash
 git status
