@@ -3,6 +3,7 @@
 ## 1. What is Git?
 
 Git is a **Distributed Version Control System (DVCS)** used to track changes in files and manage source code history.
+Git is a **Distributed Version Control System (DVCS)** used to track changes in files and manage source code history.
 
 ### Why Use Git?
 
