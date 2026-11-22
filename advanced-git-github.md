@@ -4,7 +4,6 @@
 ## 1. Introduction
 
 Git is a distributed version control system used to track changes in source code.
-Git is a distributed version control system used to track changes in source code.
 
 ## 2. Important Git Commands
 
